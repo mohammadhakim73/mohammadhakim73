@@ -1,5 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohammad Hakim 👋
 
+## 🚀 What I Do
+
+## 💻 Technical Skills
+
+
+## 📫 Connect With Me
+- **Email:** [mohammad.seyyedhakim@gmail.com](mailto:mohammad.seyyedhakim@gmail.com)
+- **LinkedIn:** [mohammadhakim](https://www.linkedin.com/in/mohammadhakim95/)
+- **Google Scholar:** [Profile](https://scholar.google.co.uk/citations?user=-dqzC38AAAAJ&hl=en)
 <!--
 **mohammadhakim73/mohammadhakim73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
