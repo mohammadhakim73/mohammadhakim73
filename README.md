@@ -19,7 +19,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-76B900?style=flat&logo=nvidia&logoColor=white)
-![Industrial Cameras](https://img.shields.io/badge/Industrial%20Cameras-555555?style=flat&logo=camera&logoColor=white)
+![GStreamer](https://img.shields.io/badge/GStreamer-ED8B00?style=flat&logoColor=white)
+![Real-Time Processing](https://img.shields.io/badge/Real--Time%20Processing-007ACC?style=flat&logo=clockify&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
