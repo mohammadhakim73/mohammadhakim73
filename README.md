@@ -1,8 +1,9 @@
 # Hi, I'm Mohammad Hakim 👋
 
-👋 Hi, I'm Mohammad Hakim — an Industrial Computer Vision Engineer and Qt/C++ Developer passionate about applying AI to solve real-world problems.
+I'm an Industrial Computer Vision Engineer and Qt/C++ Developer passionate about applying AI to solve real-world problems.
 
 💡 I specialize in developing and deploying AI-driven computer vision solutions for industrial environments, focusing on efficient C++ implementation and seamless Qt integration.
+
 🚀 My work involves creating robust, production-ready AI models and collaborating closely with software teams to deliver scalable and user-friendly applications.
 
 ## 💻 Technical Skills
