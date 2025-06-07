@@ -6,9 +6,11 @@
 
 
 ## 📫 Connect With Me
-- **Email:** [mohammad.seyyedhakim@gmail.com](mailto:mohammad.seyyedhakim@gmail.com)
-- **LinkedIn:** [mohammadhakim](https://www.linkedin.com/in/mohammadhakim95/)
-- **Google Scholar:** [Profile](https://scholar.google.co.uk/citations?user=-dqzC38AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammad.seyyedhakim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadhakim95/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=-dqzC38AAAAJ&hl=en)
+
+
 <!--
 **mohammadhakim73/mohammadhakim73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
